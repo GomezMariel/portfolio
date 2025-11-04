@@ -219,7 +219,7 @@ const Index = () => {
                 </a>
               </div>
               <div className="flex gap-6 mt-4">
-                <a href="www.linkedin.com/in/mariel-mgg" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">
+                <a href="https://www.linkedin.com/in/mariel-mgg" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">
                   <Linkedin className="w-8 h-8" />
                 </a>
               </div>
