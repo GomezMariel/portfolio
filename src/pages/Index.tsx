@@ -131,6 +131,7 @@ const Index = () => {
               <Card 
                 key={index} 
                 className="glass-card glow-shadow overflow-hidden hover:scale-[1.02] transition-transform duration-300 cursor-pointer group"
+                onClick={() => window.open(project.link, "_blank")}
               >
                 <div className="md:flex">
                   <div className="md:w-2/5 relative overflow-hidden">
