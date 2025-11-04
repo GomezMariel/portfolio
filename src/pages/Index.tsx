@@ -19,7 +19,7 @@ const Index = () => {
       role: "Frontend Engineer",
       tags: ["Python", "Next.js", "MongoDB"],
       image: Compiler,
-      link: "#"
+      link: "https://github.com/Com-Bs"
     },
     {
       title: "Amazon Capstone Project",
@@ -27,7 +27,7 @@ const Index = () => {
       role: "Project Manager & System Designer",
       tags: ["AWS", "DynamoDB", "Analytics"],
       image: Amazon,
-      link: "#"
+      link: "https://github.com/S-2-C"
     },
     {
       title: "Fundación por México Platform",
@@ -35,7 +35,7 @@ const Index = () => {
       role: "UX Designer & Full-Stack Developer",
       tags: ["React", "MongoDB", "Accessibility"],
       image: Fundacion,
-      link: "#"
+      link: "https://github.com/coldhed/fpm-tickets"
     },
     {
       title: "Interactive Videogame Project",
@@ -43,7 +43,7 @@ const Index = () => {
       role: "Backend Developer & Web Designer",
       tags: ["Unity", "CSS", "SQL"],
       image: Game,
-      link: "#"
+      link: "https://github.com/Paulaverdugo/TC2005B_Team2"
     }
   ];
 

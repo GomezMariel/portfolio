@@ -4,7 +4,5 @@
 
 **URL**: 
 
-## How can I edit this code?
-
 Hope you enjoy my work!
 
